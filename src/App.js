@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Utensils, User, Scale, Activity, Heart, Sparkles, ArrowRight, Loader2, Download, RefreshCw } from 'lucide-react';
+import { Utensils, User, Scale, Activity, Heart, Sparkles,Loader2, Download, RefreshCw } from 'lucide-react';
 
 export default function DietPlanner() {
   const [step, setStep] = useState(1);
@@ -776,11 +776,3 @@ Format the response in a clear, structured way with sections and bullet points.`
   );
 }
 
-function InfoCard({ label, value }) {
-  return (
-    <div className="info-card">
-      <p className="info-card-label">{label}</p>
-      <p className="info-card-value">{value}</p>
-    </div>
-  );
-}
