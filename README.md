@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [Meal planner] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Wehack]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Amina Nujooma] - [LBSITW TVM]
+- Member 2: [A.Neenajith] - [LBSITW TVM]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://mealbud-git-main-aminas-projects-e2232bef.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The project is of an AI meal planner site which give us a proper healthy diet plan everyday based on our body datas entered  ]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many people suffer from severe chronic diseases and their body is very unhealthy due to their unhealthy food habits]
 
 ### The Solution
-[How are you solving it?]
+[This site helps us in giving proper diet menu everyday according to our body data which can vary ]
 
 ---
 
@@ -31,27 +31,14 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [e.g., JavaScript, html, css]
+- Frameworks used: [e.g., React]
+- Libraries used: [e.g., axios]
+- Tools used: [e.g., VS Code, Git,Vercel]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+ 
 
----
-
-## Features
-
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
-
----
+ 
 
 ## Implementation
 
@@ -67,15 +54,8 @@ List the key features of your project:
 [Run commands - e.g., npm start, python app.py]
 ```
 
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
+ 
+ 
 
 ## Project Documentation
 
@@ -85,50 +65,20 @@ List the key features of your project:
 
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
+<img width="1920" height="1200" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ed88ed99-3f7a-467a-80bd-87dfeac74087" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/2403c392-f353-499b-8e58-e2176bf7b447" />
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Add capti<img width="1920" height="1200" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/d1e67d3c-1bbe-45ba-9fe7-452ad020d868" />
+on explaining what this shows*
 
-#### Diagrams
+ 
 
-**System Architecture:**
-
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
-
-**Application Workflow:**
-
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
-
----
-
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-#### Build Photos
-
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
+ 
+ 
 ---
 
 ## Additional Documentation
@@ -137,39 +87,12 @@ List the key features of your project:
 
 #### API Documentation
 
-**Base URL:** `https://api.yourproject.com`
+**Base URL:** `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyDZwX6iaBWTnPFZUcmEHeumIIAaUlCJb7w`
+         
 
 ##### Endpoints
 
-**GET /api/endpoint**
-- **Description:** [What it does]
-- **Parameters:**
-  - `param1` (string): [Description]
-  - `param2` (integer): [Description]
-- **Response:**
-```json
-{
-  "status": "success",
-  "data": {}
-}
-```
-
-**POST /api/endpoint**
-- **Description:** [What it does]
-- **Request Body:**
-```json
-{
-  "field1": "value1",
-  "field2": "value2"
-}
-```
-- **Response:**
-```json
-{
-  "status": "success",
-  "message": "Operation completed"
-}
-```
+ 
 
 [Add more endpoints as needed...]
 
@@ -361,7 +284,8 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[React App - Personal - Microsoft​ Edge 2026-02-14 08-11-16.zip](https://github.com/user-attachments/files/25310125/React.App.-.Personal.-.Microsoft.Edge.2026-02-14.08-11-16.zip)
+
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
@@ -374,47 +298,11 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** [e.g., GitHub Copilot, Claude]
+ 
+ 
+ 
 
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
-
-**Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
-
-**Percentage of AI-generated code:** [Approximately X%]
-
-**Human Contributions:**
-- Architecture design and planning
-- Custom business logic implementation
-- Integration and testing
-- UI/UX design decisions
-
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
-
----
-
-## Team Contributions
-
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
-
----
-
-## License
-
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
-
-**Common License Options:**
-- MIT License (Permissive, widely used)
-- Apache 2.0 (Permissive with patent grant)
-- GPL v3 (Copyleft, requires derivative works to be open source)
-
----
+ 
 
 Made with ❤️ at TinkerHub
